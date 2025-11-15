@@ -49,6 +49,12 @@ class MainApp extends StatelessWidget {
                   Icon(Icons.settings, color: Colors.grey, size: 40),
                 ],
               ),
+              Text(
+                'Titre principal',style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),),
+              Text('Sous-titre ou description',style: TextStyle(fontSize: 18),
+              ),
+                
+
 
   ]
         ),
