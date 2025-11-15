@@ -53,6 +53,10 @@ class MainApp extends StatelessWidget {
                 'Titre principal',style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),),
               Text('Sous-titre ou description',style: TextStyle(fontSize: 18),
               ),
+              Icon(
+                Icons.access_alarm,
+                color: Colors.redAccent,
+                size: 40,)
                 
 
 
